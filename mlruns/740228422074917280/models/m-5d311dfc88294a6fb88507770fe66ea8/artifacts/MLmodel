@@ -1,0 +1,22 @@
+artifact_path: file:///Users/sagar/Downloads/mlops/ecommerce-recommendation/mlruns/740228422074917280/models/m-5d311dfc88294a6fb88507770fe66ea8/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-5d311dfc88294a6fb88507770fe66ea8
+model_size_bytes: 979698
+model_uuid: m-5d311dfc88294a6fb88507770fe66ea8
+prompts: null
+run_id: 6931f504496646e0ba7a921657eba650
+utc_time_created: '2026-09-22 19:48:36.855629'

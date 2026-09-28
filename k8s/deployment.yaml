@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: ecommerce-recommendation
+
+spec:
+
+  replicas: 2
+
+  selector:
+    matchLabels:
+      app: ecommerce-recommendation
+
+  template:
+    metadata:
+      labels:
+        app: ecommerce-recommendation
+
+    spec:
+      containers:
+
+        - name: ecommerce-api
+
+          image: sagarkakkalasworld/ecommerce-recommendation:2.0
+
+          ports:
+            - containerPort: 8000

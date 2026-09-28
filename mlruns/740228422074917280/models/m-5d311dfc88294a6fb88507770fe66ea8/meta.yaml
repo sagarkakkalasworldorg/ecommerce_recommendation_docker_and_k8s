@@ -1,0 +1,10 @@
+artifact_location: file:///Users/sagar/Downloads/mlops/ecommerce-recommendation/mlruns/740228422074917280/models/m-5d311dfc88294a6fb88507770fe66ea8/artifacts
+creation_timestamp: 1790106516847
+experiment_id: '740228422074917280'
+last_updated_timestamp: 1790106518714
+model_id: m-5d311dfc88294a6fb88507770fe66ea8
+model_type: null
+name: recommendation_model
+source_run_id: 6931f504496646e0ba7a921657eba650
+status: 2
+status_message: null

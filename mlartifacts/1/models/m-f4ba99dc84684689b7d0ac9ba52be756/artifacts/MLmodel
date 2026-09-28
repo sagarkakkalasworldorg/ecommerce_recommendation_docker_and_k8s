@@ -1,0 +1,65 @@
+artifact_path: mlflow-artifacts:/1/models/m-f4ba99dc84684689b7d0ac9ba52be756/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-f4ba99dc84684689b7d0ac9ba52be756
+model_size_bytes: 982325
+model_uuid: m-f4ba99dc84684689b7d0ac9ba52be756
+prompts: null
+run_id: a633fe941b034baa8cda246a19ce2645
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "age", "required": true}, {"type": "string",
+    "name": "gender", "required": true}, {"type": "string", "name": "location", "required":
+    true}, {"type": "double", "name": "Automotive_cart", "required": true}, {"type":
+    "double", "name": "Automotive_click", "required": true}, {"type": "double", "name":
+    "Automotive_purchase", "required": true}, {"type": "double", "name": "Automotive_view",
+    "required": true}, {"type": "double", "name": "Automotive_wishlist", "required":
+    true}, {"type": "double", "name": "Beauty_cart", "required": true}, {"type": "double",
+    "name": "Beauty_click", "required": true}, {"type": "double", "name": "Beauty_purchase",
+    "required": true}, {"type": "double", "name": "Beauty_view", "required": true},
+    {"type": "double", "name": "Beauty_wishlist", "required": true}, {"type": "double",
+    "name": "Books_cart", "required": true}, {"type": "double", "name": "Books_click",
+    "required": true}, {"type": "double", "name": "Books_purchase", "required": true},
+    {"type": "double", "name": "Books_view", "required": true}, {"type": "double",
+    "name": "Books_wishlist", "required": true}, {"type": "double", "name": "Electronics_cart",
+    "required": true}, {"type": "double", "name": "Electronics_click", "required":
+    true}, {"type": "double", "name": "Electronics_purchase", "required": true}, {"type":
+    "double", "name": "Electronics_view", "required": true}, {"type": "double", "name":
+    "Electronics_wishlist", "required": true}, {"type": "double", "name": "Fashion_cart",
+    "required": true}, {"type": "double", "name": "Fashion_click", "required": true},
+    {"type": "double", "name": "Fashion_purchase", "required": true}, {"type": "double",
+    "name": "Fashion_view", "required": true}, {"type": "double", "name": "Fashion_wishlist",
+    "required": true}, {"type": "double", "name": "Gaming_cart", "required": true},
+    {"type": "double", "name": "Gaming_click", "required": true}, {"type": "double",
+    "name": "Gaming_purchase", "required": true}, {"type": "double", "name": "Gaming_view",
+    "required": true}, {"type": "double", "name": "Gaming_wishlist", "required": true},
+    {"type": "double", "name": "Home_cart", "required": true}, {"type": "double",
+    "name": "Home_click", "required": true}, {"type": "double", "name": "Home_purchase",
+    "required": true}, {"type": "double", "name": "Home_view", "required": true},
+    {"type": "double", "name": "Home_wishlist", "required": true}, {"type": "double",
+    "name": "Sports_cart", "required": true}, {"type": "double", "name": "Sports_click",
+    "required": true}, {"type": "double", "name": "Sports_purchase", "required": true},
+    {"type": "double", "name": "Sports_view", "required": true}, {"type": "double",
+    "name": "Sports_wishlist", "required": true}]'
+  outputs: '[{"type": "string", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-09-22 20:03:58.708162'

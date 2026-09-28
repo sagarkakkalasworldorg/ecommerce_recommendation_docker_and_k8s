@@ -1,0 +1,411 @@
+product_id,product_name,category,price,rating
+P0001,Smartphone,Electronics,31.93,3.7
+P0002,Smartphone,Electronics,198.48,4.7
+P0003,Smartphone,Electronics,1047.17,4.0
+P0004,Smartphone,Electronics,358.84,3.2
+P0005,Smartphone,Electronics,1212.82,3.2
+P0006,Smartphone,Electronics,563.99,3.6
+P0007,Smartphone,Electronics,586.43,4.6
+P0008,Smartphone,Electronics,1314.26,4.3
+P0009,Smartphone,Electronics,1022.16,3.1
+P0010,Smartphone,Electronics,853.67,4.2
+P0011,Laptop,Electronics,262.89,3.7
+P0012,Laptop,Electronics,335.32,4.5
+P0013,Laptop,Electronics,1381.44,4.2
+P0014,Laptop,Electronics,674.73,3.4
+P0015,Laptop,Electronics,1346.96,3.3
+P0016,Laptop,Electronics,202.27,4.5
+P0017,Laptop,Electronics,540.27,3.9
+P0018,Laptop,Electronics,1190.79,3.5
+P0019,Laptop,Electronics,974.04,3.5
+P0020,Laptop,Electronics,909.48,4.4
+P0021,Tablet,Electronics,441.68,4.9
+P0022,Tablet,Electronics,59.7,4.7
+P0023,Tablet,Electronics,1316.22,3.4
+P0024,Tablet,Electronics,918.25,3.4
+P0025,Tablet,Electronics,599.79,4.3
+P0026,Tablet,Electronics,1180.03,4.6
+P0027,Tablet,Electronics,374.22,3.8
+P0028,Tablet,Electronics,376.8,4.3
+P0029,Tablet,Electronics,125.1,4.8
+P0030,Tablet,Electronics,37.86,3.7
+P0031,Smartwatch,Electronics,488.38,3.8
+P0032,Smartwatch,Electronics,1261.68,3.8
+P0033,Smartwatch,Electronics,828.61,3.3
+P0034,Smartwatch,Electronics,717.1,5.0
+P0035,Smartwatch,Electronics,128.03,4.2
+P0036,Smartwatch,Electronics,40.41,3.4
+P0037,Smartwatch,Electronics,1385.42,4.9
+P0038,Smartwatch,Electronics,609.0,3.6
+P0039,Smartwatch,Electronics,1074.69,4.5
+P0040,Smartwatch,Electronics,646.89,3.8
+P0041,Headphones,Electronics,968.0,4.1
+P0042,Headphones,Electronics,245.97,3.2
+P0043,Headphones,Electronics,136.95,4.8
+P0044,Headphones,Electronics,1461.98,3.3
+P0045,Headphones,Electronics,503.59,4.2
+P0046,Headphones,Electronics,1149.57,4.3
+P0047,Headphones,Electronics,971.87,3.6
+P0048,Headphones,Electronics,667.48,4.9
+P0049,Headphones,Electronics,373.18,3.5
+P0050,Headphones,Electronics,1388.45,3.2
+P0051,Gaming Laptop,Gaming,926.2,3.1
+P0052,Gaming Laptop,Gaming,1005.8,4.3
+P0053,Gaming Laptop,Gaming,279.96,3.0
+P0054,Gaming Laptop,Gaming,223.07,3.0
+P0055,Gaming Laptop,Gaming,754.69,3.7
+P0056,Gaming Laptop,Gaming,785.49,4.6
+P0057,Gaming Laptop,Gaming,403.69,3.7
+P0058,Gaming Laptop,Gaming,1129.67,4.7
+P0059,Gaming Laptop,Gaming,1104.75,3.2
+P0060,Gaming Laptop,Gaming,1351.85,3.7
+P0061,Gaming Mouse,Gaming,655.4,4.0
+P0062,Gaming Mouse,Gaming,409.17,5.0
+P0063,Gaming Mouse,Gaming,948.75,4.0
+P0064,Gaming Mouse,Gaming,775.96,3.1
+P0065,Gaming Mouse,Gaming,1291.85,3.3
+P0066,Gaming Mouse,Gaming,252.82,4.5
+P0067,Gaming Mouse,Gaming,1343.52,4.3
+P0068,Gaming Mouse,Gaming,190.69,4.5
+P0069,Gaming Mouse,Gaming,23.8,4.7
+P0070,Gaming Mouse,Gaming,38.19,3.1
+P0071,Gaming Keyboard,Gaming,558.69,4.8
+P0072,Gaming Keyboard,Gaming,284.86,4.9
+P0073,Gaming Keyboard,Gaming,72.34,4.6
+P0074,Gaming Keyboard,Gaming,1076.75,4.3
+P0075,Gaming Keyboard,Gaming,352.28,3.5
+P0076,Gaming Keyboard,Gaming,1375.47,3.6
+P0077,Gaming Keyboard,Gaming,1242.48,4.1
+P0078,Gaming Keyboard,Gaming,196.71,4.3
+P0079,Gaming Keyboard,Gaming,97.95,3.4
+P0080,Gaming Keyboard,Gaming,783.35,3.1
+P0081,Gaming Headset,Gaming,613.37,4.8
+P0082,Gaming Headset,Gaming,1301.73,4.5
+P0083,Gaming Headset,Gaming,479.83,3.2
+P0084,Gaming Headset,Gaming,695.98,3.7
+P0085,Gaming Headset,Gaming,451.56,4.6
+P0086,Gaming Headset,Gaming,1114.57,3.5
+P0087,Gaming Headset,Gaming,565.04,4.9
+P0088,Gaming Headset,Gaming,1496.72,4.6
+P0089,Gaming Headset,Gaming,1104.05,4.1
+P0090,Gaming Headset,Gaming,1198.04,3.3
+P0091,Gaming Monitor,Gaming,1399.95,3.0
+P0092,Gaming Monitor,Gaming,821.49,4.3
+P0093,Gaming Monitor,Gaming,1046.32,3.0
+P0094,Gaming Monitor,Gaming,515.83,4.5
+P0095,Gaming Monitor,Gaming,576.89,4.5
+P0096,Gaming Monitor,Gaming,475.12,3.4
+P0097,Gaming Monitor,Gaming,1475.01,3.8
+P0098,Gaming Monitor,Gaming,1442.55,4.9
+P0099,Gaming Monitor,Gaming,230.71,3.6
+P0100,Gaming Monitor,Gaming,84.97,3.5
+P0101,T-Shirt,Fashion,1271.35,3.8
+P0102,T-Shirt,Fashion,1345.46,3.9
+P0103,T-Shirt,Fashion,1126.89,4.2
+P0104,T-Shirt,Fashion,768.03,4.3
+P0105,T-Shirt,Fashion,603.64,4.2
+P0106,T-Shirt,Fashion,112.18,4.3
+P0107,T-Shirt,Fashion,213.45,3.6
+P0108,T-Shirt,Fashion,1279.35,4.9
+P0109,T-Shirt,Fashion,601.57,4.7
+P0110,T-Shirt,Fashion,502.85,3.9
+P0111,Jeans,Fashion,365.74,4.9
+P0112,Jeans,Fashion,221.45,4.5
+P0113,Jeans,Fashion,181.28,3.2
+P0114,Jeans,Fashion,685.36,3.6
+P0115,Jeans,Fashion,198.69,3.7
+P0116,Jeans,Fashion,1160.1,3.9
+P0117,Jeans,Fashion,705.75,4.7
+P0118,Jeans,Fashion,153.82,4.6
+P0119,Jeans,Fashion,470.24,4.4
+P0120,Jeans,Fashion,912.89,3.4
+P0121,Dress,Fashion,1287.73,3.3
+P0122,Dress,Fashion,1072.51,4.9
+P0123,Dress,Fashion,606.44,3.1
+P0124,Dress,Fashion,462.28,4.6
+P0125,Dress,Fashion,277.32,4.9
+P0126,Dress,Fashion,1284.81,4.1
+P0127,Dress,Fashion,834.18,3.2
+P0128,Dress,Fashion,170.82,4.6
+P0129,Dress,Fashion,199.75,3.1
+P0130,Dress,Fashion,1175.82,3.4
+P0131,Shoes,Fashion,313.24,3.8
+P0132,Shoes,Fashion,1035.7,4.9
+P0133,Shoes,Fashion,144.38,4.2
+P0134,Shoes,Fashion,1377.79,3.1
+P0135,Shoes,Fashion,1495.8,3.4
+P0136,Shoes,Fashion,976.06,4.6
+P0137,Shoes,Fashion,156.13,4.7
+P0138,Shoes,Fashion,1217.15,3.2
+P0139,Shoes,Fashion,1414.58,3.1
+P0140,Shoes,Fashion,1387.71,3.9
+P0141,Jacket,Fashion,1092.16,4.0
+P0142,Jacket,Fashion,586.44,3.9
+P0143,Jacket,Fashion,543.84,4.8
+P0144,Jacket,Fashion,426.97,3.9
+P0145,Jacket,Fashion,239.97,4.2
+P0146,Jacket,Fashion,933.13,4.3
+P0147,Jacket,Fashion,758.36,4.8
+P0148,Jacket,Fashion,728.97,3.2
+P0149,Jacket,Fashion,586.86,3.8
+P0150,Jacket,Fashion,971.13,4.6
+P0151,Handbag,Fashion,388.74,5.0
+P0152,Handbag,Fashion,824.61,3.0
+P0153,Handbag,Fashion,586.1,4.4
+P0154,Handbag,Fashion,729.93,4.6
+P0155,Handbag,Fashion,529.17,4.1
+P0156,Handbag,Fashion,495.97,3.5
+P0157,Handbag,Fashion,58.57,4.2
+P0158,Handbag,Fashion,63.37,4.6
+P0159,Handbag,Fashion,435.78,4.6
+P0160,Handbag,Fashion,718.09,3.7
+P0161,Car Dash Camera,Automotive,884.3,3.5
+P0162,Car Dash Camera,Automotive,256.24,3.5
+P0163,Car Dash Camera,Automotive,376.91,4.1
+P0164,Car Dash Camera,Automotive,1191.03,4.5
+P0165,Car Dash Camera,Automotive,1150.79,4.9
+P0166,Car Dash Camera,Automotive,872.02,5.0
+P0167,Car Dash Camera,Automotive,594.87,4.9
+P0168,Car Dash Camera,Automotive,1487.48,3.3
+P0169,Car Dash Camera,Automotive,370.1,3.6
+P0170,Car Dash Camera,Automotive,1112.4,3.7
+P0171,Car Floor Mat,Automotive,895.51,4.4
+P0172,Car Floor Mat,Automotive,540.49,4.1
+P0173,Car Floor Mat,Automotive,230.31,4.9
+P0174,Car Floor Mat,Automotive,1258.31,4.6
+P0175,Car Floor Mat,Automotive,1456.17,4.1
+P0176,Car Floor Mat,Automotive,279.82,3.1
+P0177,Car Floor Mat,Automotive,103.13,4.2
+P0178,Car Floor Mat,Automotive,49.49,4.0
+P0179,Car Floor Mat,Automotive,510.97,4.2
+P0180,Car Floor Mat,Automotive,1213.54,3.7
+P0181,Car Charger,Automotive,282.64,4.6
+P0182,Car Charger,Automotive,1304.96,3.1
+P0183,Car Charger,Automotive,238.61,4.4
+P0184,Car Charger,Automotive,229.65,3.2
+P0185,Car Charger,Automotive,798.92,3.7
+P0186,Car Charger,Automotive,127.35,4.4
+P0187,Car Charger,Automotive,999.97,4.2
+P0188,Car Charger,Automotive,518.11,3.6
+P0189,Car Charger,Automotive,1464.27,4.5
+P0190,Car Charger,Automotive,666.57,4.3
+P0191,Car Vacuum,Automotive,741.06,3.6
+P0192,Car Vacuum,Automotive,1066.63,4.1
+P0193,Car Vacuum,Automotive,1336.61,4.2
+P0194,Car Vacuum,Automotive,548.1,4.3
+P0195,Car Vacuum,Automotive,1225.39,3.8
+P0196,Car Vacuum,Automotive,1106.31,3.6
+P0197,Car Vacuum,Automotive,283.01,3.0
+P0198,Car Vacuum,Automotive,1058.97,4.1
+P0199,Car Vacuum,Automotive,1279.12,4.5
+P0200,Car Vacuum,Automotive,859.87,3.4
+P0201,Car Phone Holder,Automotive,490.96,4.6
+P0202,Car Phone Holder,Automotive,924.84,4.3
+P0203,Car Phone Holder,Automotive,174.08,4.0
+P0204,Car Phone Holder,Automotive,510.13,3.2
+P0205,Car Phone Holder,Automotive,533.28,3.6
+P0206,Car Phone Holder,Automotive,961.56,4.9
+P0207,Car Phone Holder,Automotive,1236.06,4.3
+P0208,Car Phone Holder,Automotive,1099.34,3.7
+P0209,Car Phone Holder,Automotive,36.87,3.4
+P0210,Car Phone Holder,Automotive,1045.9,3.7
+P0211,Makeup Kit,Beauty,1184.79,4.4
+P0212,Makeup Kit,Beauty,91.26,3.9
+P0213,Makeup Kit,Beauty,641.09,3.3
+P0214,Makeup Kit,Beauty,632.75,4.8
+P0215,Makeup Kit,Beauty,539.82,3.8
+P0216,Makeup Kit,Beauty,1246.63,4.6
+P0217,Makeup Kit,Beauty,875.52,4.5
+P0218,Makeup Kit,Beauty,353.86,3.9
+P0219,Makeup Kit,Beauty,1202.81,3.1
+P0220,Makeup Kit,Beauty,49.72,3.5
+P0221,Face Cream,Beauty,174.99,3.7
+P0222,Face Cream,Beauty,1334.14,3.3
+P0223,Face Cream,Beauty,131.0,4.9
+P0224,Face Cream,Beauty,1467.5,3.7
+P0225,Face Cream,Beauty,1478.21,4.8
+P0226,Face Cream,Beauty,1062.67,3.9
+P0227,Face Cream,Beauty,987.38,4.2
+P0228,Face Cream,Beauty,662.62,3.1
+P0229,Face Cream,Beauty,510.02,4.9
+P0230,Face Cream,Beauty,625.73,4.1
+P0231,Perfume,Beauty,1389.85,4.1
+P0232,Perfume,Beauty,997.68,3.6
+P0233,Perfume,Beauty,161.96,3.8
+P0234,Perfume,Beauty,833.5,4.0
+P0235,Perfume,Beauty,100.67,3.0
+P0236,Perfume,Beauty,149.69,4.6
+P0237,Perfume,Beauty,945.13,4.0
+P0238,Perfume,Beauty,163.54,3.4
+P0239,Perfume,Beauty,964.52,5.0
+P0240,Perfume,Beauty,720.88,3.2
+P0241,Skincare Set,Beauty,1181.62,3.9
+P0242,Skincare Set,Beauty,1344.42,3.5
+P0243,Skincare Set,Beauty,969.96,3.8
+P0244,Skincare Set,Beauty,569.11,3.8
+P0245,Skincare Set,Beauty,296.14,3.1
+P0246,Skincare Set,Beauty,670.82,3.5
+P0247,Skincare Set,Beauty,1258.88,4.1
+P0248,Skincare Set,Beauty,243.67,4.4
+P0249,Skincare Set,Beauty,163.12,4.3
+P0250,Skincare Set,Beauty,1216.11,3.8
+P0251,Hair Dryer,Beauty,1139.56,3.5
+P0252,Hair Dryer,Beauty,110.26,3.8
+P0253,Hair Dryer,Beauty,793.42,4.9
+P0254,Hair Dryer,Beauty,1036.86,4.9
+P0255,Hair Dryer,Beauty,867.62,3.5
+P0256,Hair Dryer,Beauty,462.3,3.8
+P0257,Hair Dryer,Beauty,1283.83,3.1
+P0258,Hair Dryer,Beauty,865.41,4.0
+P0259,Hair Dryer,Beauty,865.8,5.0
+P0260,Hair Dryer,Beauty,238.22,4.9
+P0261,Running Shoes,Sports,684.58,4.9
+P0262,Running Shoes,Sports,267.4,3.4
+P0263,Running Shoes,Sports,305.23,3.1
+P0264,Running Shoes,Sports,135.99,4.4
+P0265,Running Shoes,Sports,318.84,4.6
+P0266,Running Shoes,Sports,238.86,4.2
+P0267,Running Shoes,Sports,493.23,4.5
+P0268,Running Shoes,Sports,1214.87,3.2
+P0269,Running Shoes,Sports,843.42,4.1
+P0270,Running Shoes,Sports,1287.8,4.0
+P0271,Football,Sports,1377.4,3.0
+P0272,Football,Sports,1056.61,4.2
+P0273,Football,Sports,1176.89,3.2
+P0274,Football,Sports,241.47,4.1
+P0275,Football,Sports,882.36,4.9
+P0276,Football,Sports,168.3,3.2
+P0277,Football,Sports,1173.73,4.6
+P0278,Football,Sports,1303.86,4.8
+P0279,Football,Sports,1319.28,3.5
+P0280,Football,Sports,989.09,4.1
+P0281,Yoga Mat,Sports,720.11,3.3
+P0282,Yoga Mat,Sports,616.4,4.2
+P0283,Yoga Mat,Sports,1027.6,3.8
+P0284,Yoga Mat,Sports,605.77,4.8
+P0285,Yoga Mat,Sports,1041.96,3.1
+P0286,Yoga Mat,Sports,723.32,3.5
+P0287,Yoga Mat,Sports,571.21,3.7
+P0288,Yoga Mat,Sports,1194.61,3.6
+P0289,Yoga Mat,Sports,1267.41,4.7
+P0290,Yoga Mat,Sports,1033.58,4.9
+P0291,Dumbbells,Sports,357.38,3.6
+P0292,Dumbbells,Sports,1120.71,4.5
+P0293,Dumbbells,Sports,494.89,4.5
+P0294,Dumbbells,Sports,915.37,3.2
+P0295,Dumbbells,Sports,673.74,4.8
+P0296,Dumbbells,Sports,622.61,4.0
+P0297,Dumbbells,Sports,784.42,3.7
+P0298,Dumbbells,Sports,103.18,4.6
+P0299,Dumbbells,Sports,117.11,4.4
+P0300,Dumbbells,Sports,617.01,4.6
+P0301,Cricket Bat,Sports,795.94,4.1
+P0302,Cricket Bat,Sports,277.13,4.8
+P0303,Cricket Bat,Sports,317.08,3.1
+P0304,Cricket Bat,Sports,68.95,3.1
+P0305,Cricket Bat,Sports,553.36,3.4
+P0306,Cricket Bat,Sports,565.16,3.9
+P0307,Cricket Bat,Sports,607.47,4.8
+P0308,Cricket Bat,Sports,1028.14,3.5
+P0309,Cricket Bat,Sports,743.4,3.9
+P0310,Cricket Bat,Sports,1441.57,3.9
+P0311,Coffee Machine,Home,835.97,3.7
+P0312,Coffee Machine,Home,1259.73,3.5
+P0313,Coffee Machine,Home,1249.69,3.2
+P0314,Coffee Machine,Home,60.63,3.1
+P0315,Coffee Machine,Home,1283.66,4.6
+P0316,Coffee Machine,Home,337.19,3.4
+P0317,Coffee Machine,Home,353.17,3.4
+P0318,Coffee Machine,Home,984.35,4.0
+P0319,Coffee Machine,Home,1299.65,4.9
+P0320,Coffee Machine,Home,1029.66,3.9
+P0321,Table Lamp,Home,215.82,3.3
+P0322,Table Lamp,Home,1205.28,3.4
+P0323,Table Lamp,Home,920.35,4.9
+P0324,Table Lamp,Home,1074.86,4.4
+P0325,Table Lamp,Home,427.56,4.8
+P0326,Table Lamp,Home,1280.35,3.9
+P0327,Table Lamp,Home,342.95,3.6
+P0328,Table Lamp,Home,790.54,4.2
+P0329,Table Lamp,Home,885.04,3.0
+P0330,Table Lamp,Home,1499.16,4.9
+P0331,Bedsheet,Home,1262.28,4.1
+P0332,Bedsheet,Home,898.78,3.6
+P0333,Bedsheet,Home,1032.93,4.0
+P0334,Bedsheet,Home,517.7,3.6
+P0335,Bedsheet,Home,501.2,3.6
+P0336,Bedsheet,Home,991.06,4.9
+P0337,Bedsheet,Home,984.17,3.4
+P0338,Bedsheet,Home,785.59,3.5
+P0339,Bedsheet,Home,104.03,4.7
+P0340,Bedsheet,Home,1218.84,3.8
+P0341,Vacuum Cleaner,Home,492.99,3.3
+P0342,Vacuum Cleaner,Home,57.67,4.0
+P0343,Vacuum Cleaner,Home,457.49,4.8
+P0344,Vacuum Cleaner,Home,618.81,4.5
+P0345,Vacuum Cleaner,Home,882.88,5.0
+P0346,Vacuum Cleaner,Home,1227.7,3.7
+P0347,Vacuum Cleaner,Home,1075.79,4.4
+P0348,Vacuum Cleaner,Home,964.7,4.0
+P0349,Vacuum Cleaner,Home,1412.19,3.7
+P0350,Vacuum Cleaner,Home,464.29,3.3
+P0351,Air Purifier,Home,993.27,4.1
+P0352,Air Purifier,Home,454.8,3.9
+P0353,Air Purifier,Home,1116.56,4.5
+P0354,Air Purifier,Home,847.37,4.8
+P0355,Air Purifier,Home,1421.45,4.8
+P0356,Air Purifier,Home,988.56,3.4
+P0357,Air Purifier,Home,350.53,4.7
+P0358,Air Purifier,Home,642.3,4.8
+P0359,Air Purifier,Home,570.09,4.2
+P0360,Air Purifier,Home,706.37,3.2
+P0361,Python Book,Books,99.44,4.3
+P0362,Python Book,Books,878.86,4.2
+P0363,Python Book,Books,718.89,3.4
+P0364,Python Book,Books,197.33,4.4
+P0365,Python Book,Books,804.16,3.8
+P0366,Python Book,Books,1308.86,3.3
+P0367,Python Book,Books,1488.67,3.7
+P0368,Python Book,Books,1481.04,4.8
+P0369,Python Book,Books,1480.24,3.3
+P0370,Python Book,Books,1296.34,3.4
+P0371,AI Book,Books,139.6,3.7
+P0372,AI Book,Books,1480.23,3.6
+P0373,AI Book,Books,105.86,3.9
+P0374,AI Book,Books,329.89,4.5
+P0375,AI Book,Books,872.89,3.3
+P0376,AI Book,Books,1182.11,4.6
+P0377,AI Book,Books,211.52,3.9
+P0378,AI Book,Books,655.53,3.9
+P0379,AI Book,Books,726.55,3.0
+P0380,AI Book,Books,810.0,4.5
+P0381,Cloud Computing Book,Books,1426.1,4.8
+P0382,Cloud Computing Book,Books,1140.13,4.1
+P0383,Cloud Computing Book,Books,46.52,3.0
+P0384,Cloud Computing Book,Books,1105.73,3.5
+P0385,Cloud Computing Book,Books,1317.94,3.6
+P0386,Cloud Computing Book,Books,172.01,4.0
+P0387,Cloud Computing Book,Books,473.05,3.1
+P0388,Cloud Computing Book,Books,87.66,4.9
+P0389,Cloud Computing Book,Books,694.77,4.0
+P0390,Cloud Computing Book,Books,795.69,3.9
+P0391,Business Book,Books,1036.43,3.3
+P0392,Business Book,Books,1494.29,4.0
+P0393,Business Book,Books,1130.17,3.3
+P0394,Business Book,Books,1362.2,4.6
+P0395,Business Book,Books,48.3,3.4
+P0396,Business Book,Books,1477.62,3.4
+P0397,Business Book,Books,52.43,4.0
+P0398,Business Book,Books,202.28,4.4
+P0399,Business Book,Books,1192.35,3.8
+P0400,Business Book,Books,967.68,4.5
+P0401,Self Help Book,Books,942.24,4.2
+P0402,Self Help Book,Books,90.98,3.2
+P0403,Self Help Book,Books,1257.46,3.1
+P0404,Self Help Book,Books,191.37,3.9
+P0405,Self Help Book,Books,202.92,3.5
+P0406,Self Help Book,Books,1058.76,3.4
+P0407,Self Help Book,Books,1034.9,3.0
+P0408,Self Help Book,Books,642.89,3.2
+P0409,Self Help Book,Books,790.06,4.2
+P0410,Self Help Book,Books,1057.07,3.8

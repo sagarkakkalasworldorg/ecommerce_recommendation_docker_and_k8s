@@ -1,0 +1,73 @@
+artifact_path: mlflow-artifacts:/724001365314717695/models/m-8756957a3d4847e18e317739a670624a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-8756957a3d4847e18e317739a670624a
+model_size_bytes: 20717
+model_uuid: m-8756957a3d4847e18e317739a670624a
+prompts: null
+run_id: b4142f7696fa42019c4318bfe75706fe
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "age", "required": true}, {"type": "string",
+    "name": "gender", "required": true}, {"type": "string", "name": "location", "required":
+    true}, {"type": "double", "name": "Automotive_views", "required": true}, {"type":
+    "double", "name": "Beauty_views", "required": true}, {"type": "double", "name":
+    "Books_views", "required": true}, {"type": "double", "name": "Electronics_views",
+    "required": true}, {"type": "double", "name": "Fashion_views", "required": true},
+    {"type": "double", "name": "Gaming_views", "required": true}, {"type": "double",
+    "name": "Home_views", "required": true}, {"type": "double", "name": "Sports_views",
+    "required": true}, {"type": "double", "name": "Automotive_clicks", "required":
+    true}, {"type": "double", "name": "Beauty_clicks", "required": true}, {"type":
+    "double", "name": "Books_clicks", "required": true}, {"type": "double", "name":
+    "Electronics_clicks", "required": true}, {"type": "double", "name": "Fashion_clicks",
+    "required": true}, {"type": "double", "name": "Gaming_clicks", "required": true},
+    {"type": "double", "name": "Home_clicks", "required": true}, {"type": "double",
+    "name": "Sports_clicks", "required": true}, {"type": "double", "name": "Automotive_wishlists",
+    "required": true}, {"type": "double", "name": "Beauty_wishlists", "required":
+    true}, {"type": "double", "name": "Books_wishlists", "required": true}, {"type":
+    "double", "name": "Electronics_wishlists", "required": true}, {"type": "double",
+    "name": "Fashion_wishlists", "required": true}, {"type": "double", "name": "Gaming_wishlists",
+    "required": true}, {"type": "double", "name": "Home_wishlists", "required": true},
+    {"type": "double", "name": "Sports_wishlists", "required": true}, {"type": "double",
+    "name": "Automotive_carts", "required": true}, {"type": "double", "name": "Beauty_carts",
+    "required": true}, {"type": "double", "name": "Books_carts", "required": true},
+    {"type": "double", "name": "Electronics_carts", "required": true}, {"type": "double",
+    "name": "Fashion_carts", "required": true}, {"type": "double", "name": "Gaming_carts",
+    "required": true}, {"type": "double", "name": "Home_carts", "required": true},
+    {"type": "double", "name": "Sports_carts", "required": true}, {"type": "double",
+    "name": "Automotive_purchases", "required": true}, {"type": "double", "name":
+    "Beauty_purchases", "required": true}, {"type": "double", "name": "Books_purchases",
+    "required": true}, {"type": "double", "name": "Electronics_purchases", "required":
+    true}, {"type": "double", "name": "Fashion_purchases", "required": true}, {"type":
+    "double", "name": "Gaming_purchases", "required": true}, {"type": "double", "name":
+    "Home_purchases", "required": true}, {"type": "double", "name": "Sports_purchases",
+    "required": true}, {"type": "double", "name": "Automotive_engagement_score", "required":
+    true}, {"type": "double", "name": "Beauty_engagement_score", "required": true},
+    {"type": "double", "name": "Books_engagement_score", "required": true}, {"type":
+    "double", "name": "Electronics_engagement_score", "required": true}, {"type":
+    "double", "name": "Fashion_engagement_score", "required": true}, {"type": "double",
+    "name": "Gaming_engagement_score", "required": true}, {"type": "double", "name":
+    "Home_engagement_score", "required": true}, {"type": "double", "name": "Sports_engagement_score",
+    "required": true}]'
+  outputs: '[{"type": "string", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-09-26 17:42:02.116451'

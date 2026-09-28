@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/724001365314717695/785666d1546b4f808fbd75fa93973129/artifacts
+end_time: 1790619271868
+entry_point_name: ''
+experiment_id: '724001365314717695'
+lifecycle_stage: active
+run_id: 785666d1546b4f808fbd75fa93973129
+run_name: decision-tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790619269949
+status: 3
+tags: []
+user_id: sagar

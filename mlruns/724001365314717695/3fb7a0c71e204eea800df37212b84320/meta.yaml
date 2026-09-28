@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/724001365314717695/3fb7a0c71e204eea800df37212b84320/artifacts
+end_time: 1790444527658
+entry_point_name: ''
+experiment_id: '724001365314717695'
+lifecycle_stage: active
+run_id: 3fb7a0c71e204eea800df37212b84320
+run_name: random-forest-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790444525788
+status: 3
+tags: []
+user_id: sagar

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sagar/Downloads/mlops/ecommerce-recommendation/mlruns/740228422074917280/6931f504496646e0ba7a921657eba650/artifacts
+end_time: 1790106518717
+entry_point_name: ''
+experiment_id: '740228422074917280'
+lifecycle_stage: active
+run_id: 6931f504496646e0ba7a921657eba650
+run_name: nosy-eel-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790106516749
+status: 3
+tags: []
+user_id: sagar

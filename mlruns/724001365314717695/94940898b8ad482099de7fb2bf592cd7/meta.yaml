@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/724001365314717695/94940898b8ad482099de7fb2bf592cd7/artifacts
+end_time: 1790444521911
+entry_point_name: ''
+experiment_id: '724001365314717695'
+lifecycle_stage: active
+run_id: 94940898b8ad482099de7fb2bf592cd7
+run_name: logistic-regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790444519679
+status: 3
+tags: []
+user_id: sagar

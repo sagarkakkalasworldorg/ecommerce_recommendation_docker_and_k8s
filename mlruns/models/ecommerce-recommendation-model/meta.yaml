@@ -1,0 +1,8 @@
+aliases:
+  production: '2'
+creation_timestamp: 1790190446292
+deployment_job_id: null
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1790190826782
+name: ecommerce-recommendation-model
